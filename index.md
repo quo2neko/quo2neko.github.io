@@ -1,5 +1,5 @@
    ---
-   layout: home
+   Quo2Neko - Home
    ---
 
    Hello, these are my projects:
